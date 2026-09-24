@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08271d"/>
+      <stop offset=".55" stop-color="#0e3a2b"/>
+      <stop offset="1" stop-color="#14513c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".12" r=".8">
+      <stop offset="0" stop-color="#d8bd6e" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#d8bd6e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="980" cy="210" r="130" fill="#d8bd6e" opacity=".16"/>
+  <g transform="translate(930 150)" fill="none" stroke="#d8bd6e" stroke-width="8" stroke-linecap="round">
+    <path d="M0-80L0 78M0-6L66 30M0-6L-66 30M0-34L45-9M0-34L-45-9M0 52L-15 78M0 52L15 78"/>
+    <path d="M0 24L30 50M0 24L-30 50" stroke="#b08d2e"/>
+  </g>
+  <text x="90" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" fill="#ffffff">Festive Occasions</text>
+  <text x="92" y="330" font-family="Arial, sans-serif" font-size="40" fill="#d8bd6e">Luxury Christmas Decoration · Dubai &amp; the UAE</text>
+  <rect x="92" y="380" width="330" height="6" rx="3" fill="#b08d2e"/>
+  <text x="92" y="440" font-family="Arial, sans-serif" font-size="30" fill="#cfe0d6">Villa · Home · Office · Corporate · Lighting · Outdoor</text>
+  <text x="92" y="560" font-family="Arial, sans-serif" font-size="30" fill="#e9f1ec">www.festiveoccasions.ae · +971 56 428 4444</text>
+</svg>
